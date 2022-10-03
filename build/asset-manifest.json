@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/chatta-app/static/css/main.ad63df8d.css",
+    "main.js": "/chatta-app/static/js/main.42a0b2be.js",
+    "index.html": "/chatta-app/index.html",
+    "main.ad63df8d.css.map": "/chatta-app/static/css/main.ad63df8d.css.map",
+    "main.42a0b2be.js.map": "/chatta-app/static/js/main.42a0b2be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad63df8d.css",
+    "static/js/main.42a0b2be.js"
+  ]
+}
